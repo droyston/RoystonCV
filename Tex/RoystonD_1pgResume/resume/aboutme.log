@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2019.7.10)  6 AUG 2019 14:48
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2019.7.10)  19 AUG 2019 11:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -60,25 +60,12 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.12 -
-       Award-winning PhD candidate studying human sensorimotor control and b...
+       \textbf{Award-winning} PhD candidate studying human sensorimotor cont...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 Missing character: There is no - in font nullfont!
-Missing character: There is no A in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no - in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no g in font nullfont!
 Missing character: There is no P in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no D in font nullfont!
@@ -277,6 +264,16 @@ Overfull \hbox (20.0pt too wide) in paragraph at lines 12--13
  []
 
 
+Overfull \hbox (37.22896pt too wide) in paragraph at lines 12--13
+\OT1/cmr/bx/n/10 Award-
+ []
+
+
+Overfull \hbox (39.6109pt too wide) in paragraph at lines 12--13
+\OT1/cmr/bx/n/10 winning
+ []
+
+
 Overfull \hbox (17.72908pt too wide) in paragraph at lines 12--13
 \OT1/cmr/bx/n/10 Re-
  []
@@ -329,18 +326,12 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.14 -
-       Expert in multimodal neural data analysis and decoding, signal proces...
+       \textbf{Expert} in multimodal neural data analysis and decoding, sign...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 Missing character: There is no - in font nullfont!
-Missing character: There is no E in font nullfont!
-Missing character: There is no x in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no t in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no m in font nullfont!
@@ -470,6 +461,16 @@ Overfull \hbox (20.0pt too wide) in paragraph at lines 14--15
  []
 
 
+Overfull \hbox (17.45824pt too wide) in paragraph at lines 14--15
+\OT1/cmr/bx/n/10 Ex-
+ []
+
+
+Overfull \hbox (21.18741pt too wide) in paragraph at lines 14--15
+\OT1/cmr/bx/n/10 pert
+ []
+
+
 ! LaTeX Error: Missing \begin{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -477,22 +478,12 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.16 -
-       Team leader with experience in developing/executing large multidiscip...
+       \textbf{Team leader} with experience in developing/executing large mu...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 Missing character: There is no - in font nullfont!
-Missing character: There is no T in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
 Missing character: There is no w in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no t in font nullfont!
@@ -602,6 +593,16 @@ Overfull \hbox (20.0pt too wide) in paragraph at lines 16--17
  []
 
 
+Overfull \hbox (27.48595pt too wide) in paragraph at lines 16--17
+\OT1/cmr/bx/n/10 Team
+ []
+
+
+Overfull \hbox (30.45123pt too wide) in paragraph at lines 16--17
+\OT1/cmr/bx/n/10 leader
+ []
+
+
 ! LaTeX Error: Missing \begin{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -609,22 +610,12 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.18 -
-       Passionate about developing real-time neural interfaces and applying ...
+       \textbf{Passionate} about developing real-time neural interfaces and ...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 Missing character: There is no - in font nullfont!
-Missing character: There is no P in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no e in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no b in font nullfont!
 Missing character: There is no o in font nullfont!
@@ -802,5 +793,5 @@ Here is how much of TeX's memory you used:
  3385 multiletter control sequences out of 15000+600000
  3948 words of font info for 15 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 13i,1n,10p,297b,71s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 13i,1n,10p,306b,73s stack positions out of 5000i,500n,10000p,200000b,80000s
 No pages of output.
